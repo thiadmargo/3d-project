@@ -1,0 +1,3 @@
+﻿  3d test sfml.cpp
+C:\Users\thiad\source\repos\3d test sfml\3d test sfml\3d test sfml.cpp(8,22): error C2100: you cannot dereference an operand of type 'float'
+C:\Users\thiad\source\repos\3d test sfml\3d test sfml\3d test sfml.cpp(13,45): error C2059: syntax error: ','
